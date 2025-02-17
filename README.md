@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Fabiana Minutti
+# Hi there! 👋 
 
 Welcome to my GitHub! I'm a software developer currently working at **Luizalabs**. I specialize in **.NET**, but I have also worked with other programming languages like **Java** and **Python**.
 
